@@ -1,7 +1,7 @@
 
 ## connect info
 
-[설계화면 바로가기](https://excalidraw.com/#json=4901323535286272,gsFj20UUbLiwjpXscIpIkA)
+[설계화면 바로가기](https://excalidraw.com/#json=6645459321880576,qeV7YzogxxUNVlUWNSk9jw)
 
 
 ```elixir
