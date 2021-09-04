@@ -16,9 +16,6 @@
 
 ```
 
-
-https://www.coupang.com/vp/products/332473915?itemId=1062243893&vendorItemId=5541656862&src=1191000&spec=10999999&addtag=400&ctag=332473915&lptag=CFM99390563&itime=20210904112532&pageType=PRODUCT&pageValue=332473915&wPcid=16306633054774387853578&wRef=&wTime=20210904112532&redirect=landing&isAddedCart=
-
 ```js
 
 // client app
